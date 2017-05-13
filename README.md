@@ -2,11 +2,12 @@
 
 ### A "discrete choice" model of labour turnover and matching
 
+*This doesn't work yet - I mean, this is version 0.01.*
 
 The labour market is a two-sided market for lemons: there are many crap jobs, many crap candidates, and highly expensive and inaccurate measurement of quality on each side.
 
 
-#### Questions this simulation answers, given heroic assumptions:
+#### Questions this simulation will answer, given heroic assumptions:
 
 * 	What fraction of vacancies are bad?
 * 	How many bad workers will an average organisation hire? 
